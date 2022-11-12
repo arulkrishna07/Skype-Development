@@ -1,0 +1,7 @@
+1.Normal call and Group call.
+
+2.Video call and Voice Message.
+
+3.Image and video, Multimedia file Share it.
+
+4.Long time call connected
