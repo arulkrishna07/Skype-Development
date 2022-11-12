@@ -5,3 +5,5 @@
 3.Image and video, Multimedia file Share it.
 
 4.Long time call connected
+
+Hiding the Last Seen
