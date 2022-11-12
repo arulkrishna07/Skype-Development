@@ -6,4 +6,8 @@
 
 4.Long time call connected
 
-Hiding the Last Seen
+5.Hiding the Last Seen
+
+6.Account creating sent the OTP
+
+7.Account Activate Send Maill Link
